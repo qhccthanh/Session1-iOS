@@ -10,7 +10,7 @@ import UIKit
 //var a = 5
 //a = 6
 
-let a = 5
+let a = 6
 let b: Int = 5
 let c: Double = 5.0
 
